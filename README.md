@@ -90,7 +90,7 @@ Alternatively, run them manually:
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/explain-like-im-5/issues).
+Contributions, issues, and feature requests are welcome!
 
 ## 📝 License
 
